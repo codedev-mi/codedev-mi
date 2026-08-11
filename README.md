@@ -48,7 +48,10 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,php,laravel,java,git,github,postman,vscode,figma&perline=9" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,threejs,tailwind,nodejs,express,python,cpp,php,laravel,mongodb,mysql,postgresql,aws,git,github,postman,vscode,figma&perline=9"
+    alt="Tech Stack"
+  />
 </p>
 
 <br/>
@@ -57,17 +60,20 @@
 
 <h2 align="center">💻 What I Work With</h2>
 
-<table align="center" width="70%">
+<table align="center" width="80%">
 <tr>
+
 <td align="center" width="50%">
 
 <h3>🎨 Frontend</h3>
 
-React.js • JavaScript • HTML5 • CSS3
+React.js • Next.js • React Native
 <br/>
-Tailwind CSS • Bootstrap
+JavaScript • TypeScript
 <br/>
-Responsive UI
+HTML5 • CSS3 • Tailwind CSS
+<br/>
+Three.js
 
 </td>
 
@@ -75,11 +81,16 @@ Responsive UI
 
 <h3>⚙️ Backend</h3>
 
-Node.js • Express.js • PHP • Laravel
+Node.js • Express.js
+<br/>
+PHP • Laravel
+<br/>
+Python
 <br/>
 REST APIs • JWT • WebSocket
 
 </td>
+
 </tr>
 
 <tr>
@@ -88,19 +99,25 @@ REST APIs • JWT • WebSocket
 
 <h3>🗄️ Database</h3>
 
-MongoDB • MySQL
+MongoDB • MySQL • PostgreSQL
 <br/>
-Mongoose • CRUD • Database Design
+Mongoose • CRUD
+<br/>
+Database Design
 
 </td>
 
 <td align="center" width="50%">
 
-<h3>🔧 Tools</h3>
+<h3>☁️ Cloud & Development</h3>
 
-Git • GitHub • Postman • VS Code
+AWS
 <br/>
-Vite • XAMPP • Figma
+Git • GitHub • Postman
+<br/>
+VS Code • Vite • XAMPP
+<br/>
+C++
 
 </td>
 
