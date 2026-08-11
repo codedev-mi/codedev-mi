@@ -57,9 +57,8 @@
 
 <h2 align="center">💻 What I Work With</h2>
 
-<table width="100%">
+<table align="center" width="70%">
 <tr>
-
 <td align="center" width="50%">
 
 <h3>🎨 Frontend</h3>
@@ -81,7 +80,6 @@ Node.js • Express.js • PHP • Laravel
 REST APIs • JWT • WebSocket
 
 </td>
-
 </tr>
 
 <tr>
@@ -110,7 +108,6 @@ Vite • XAMPP • Figma
 </table>
 
 <br/>
-
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
