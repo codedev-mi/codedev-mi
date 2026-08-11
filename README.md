@@ -1,11 +1,14 @@
+<!-- ================= HEADER ================= -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Shruti%20Bhangale&fontSize=46&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Software%20Developer&descAlignY=62&animation=fadeIn&fontColor=ffffff&color=0:7C3AED,50:2563EB,100:06B6D4"
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Shruti%20Bhangale&fontSize=42&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Software%20Developer&descAlignY=64&animation=fadeIn&fontColor=ffffff&color=0:7C3AED,50:2563EB,100:06B6D4"
     width="100%"
   />
 </p>
 
-<br>
+
+<!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">👩‍💻 About Me</h2>
 
@@ -28,6 +31,8 @@
 
 <br>
 
+<!-- ================= TECH STACK ================= -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -39,13 +44,14 @@
 
 <br>
 
+<!-- ================= WHAT I WORK WITH ================= -->
+
 <h2 align="center">💻 What I Work With</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🎨 Frontend</h3>
-
       React.js • Next.js • React Native
       <br>
       JavaScript • TypeScript
@@ -54,24 +60,23 @@
       <br>
       Three.js
     </td>
-
+  </tr>
+<tr>
     <td width="50%" align="center">
       <h3>⚙️ Backend</h3>
-
       Node.js • Express.js
       <br>
-      Python • PHP • Laravel
+      PHP • Laravel
       <br>
-      REST APIs • JWT
+      Python
       <br>
-      WebSocket
+      REST APIs • JWT • WebSocket
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="center">
       <h3>🗄️ Database</h3>
-
       MongoDB • MySQL • PostgreSQL
       <br>
       Mongoose • CRUD
@@ -80,13 +85,12 @@
     </td>
 
     <td width="50%" align="center">
-      <h3>☁️ Cloud & Tools</h3>
-
-      AWS • Git • GitHub
+      <h3>☁️ Cloud & Development</h3>
+      AWS
       <br>
-      Postman • VS Code
+      Git • GitHub • Postman
       <br>
-      Vite • XAMPP • Figma
+      VS Code • Vite • XAMPP
       <br>
       C++
     </td>
@@ -95,3 +99,13 @@
 
 <br>
 
+
+  
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:2563EB,100:7C3AED"
+    width="100%"
+  />
+</p>
