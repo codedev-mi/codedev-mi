@@ -48,47 +48,45 @@
 
 <h2 align="center">💻 What I Work With</h2>
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" align="center">
-<h3>🎨 Frontend</h3>
-<p>
-React.js • Next.js • React Native<br>
-JavaScript • TypeScript<br>
-HTML5 • CSS3 • Tailwind CSS<br>
-Three.js
-</p>
-</td>
+<td align="center">
 
-<td width="50%" align="center">
-<h3>⚙️ Backend</h3>
-<p>
-Node.js • Express.js<br>
-PHP • Laravel<br>
-Python<br>
+### 🎨 Frontend
+
+React.js • Next.js • React Native  
+JavaScript • TypeScript  
+HTML5 • CSS3 • Tailwind CSS • Three.js
+
+</td>
+<td align="center">
+
+### ⚙️ Backend
+
+Node.js • Express.js  
+Python • PHP • Laravel  
 REST APIs • JWT • WebSocket
-</p>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<h3>🗄️ Database</h3>
-<p>
-MongoDB • MySQL • PostgreSQL<br>
-Mongoose • CRUD<br>
-Database Design
-</p>
-</td>
+<td align="center">
 
-<td width="50%" align="center">
-<h3>☁️ Cloud & Development</h3>
-<p>
-AWS<br>
-Git • GitHub • Postman<br>
-VS Code • Vite • XAMPP<br>
-C++
-</p>
+### 🗄️ Database
+
+MongoDB • MySQL • PostgreSQL  
+Mongoose • CRUD • Database Design
+
+</td>
+<td align="center">
+
+### ☁️ Cloud & Development
+
+AWS • Git • GitHub  
+Postman • VS Code • Vite  
+XAMPP • Figma • C++
+
 </td>
 </tr>
 </table>
