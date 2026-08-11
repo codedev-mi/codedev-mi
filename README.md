@@ -7,16 +7,18 @@
   />
 </p>
 
-<h2 align="center">👋 Hey, I'm Shruti Bhangale</h2>
+<!-- ================= PROFILE BADGES ================= -->
 
 <p align="center">
-  <b>Full Stack Developer • MERN Stack • Software Developer</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"
+    alt="Profile Views"
+  />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=2563EB" />
+  <img
+    src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=2563EB"
+    alt="Followers"
+  />
 </p>
 
 <br/>
@@ -49,7 +51,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,threejs,tailwind,nodejs,express,python,cpp,php,laravel,mongodb,mysql,postgresql,aws,git,github,postman,vscode,figma&perline=9"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,threejs,tailwind,bootstrap,nodejs,express,python,cpp,php,laravel,mongodb,mysql,postgresql,aws,git,github,postman,vscode,figma&perline=9"
     alt="Tech Stack"
   />
 </p>
@@ -60,71 +62,72 @@
 
 <h2 align="center">💻 What I Work With</h2>
 
-<table align="center" width="80%">
-<tr>
+<table width="100%">
+  <tr>
 
-<td align="center" width="50%">
+    <td width="50%" align="center">
 
-<h3>🎨 Frontend</h3>
+      <h3>🎨 Frontend</h3>
 
-React.js • Next.js • React Native
-<br/>
-JavaScript • TypeScript
-<br/>
-HTML5 • CSS3 • Tailwind CSS
-<br/>
-Three.js
+      React.js • Next.js • React Native
+      <br/>
+      JavaScript • TypeScript
+      <br/>
+      HTML5 • CSS3 • Tailwind CSS
+      <br/>
+      Three.js
 
-</td>
+    </td>
 
-<td align="center" width="50%">
+    <td width="50%" align="center">
 
-<h3>⚙️ Backend</h3>
+      <h3>⚙️ Backend</h3>
 
-Node.js • Express.js
-<br/>
-PHP • Laravel
-<br/>
-Python
-<br/>
-REST APIs • JWT • WebSocket
+      Node.js • Express.js
+      <br/>
+      PHP • Laravel
+      <br/>
+      Python
+      <br/>
+      REST APIs • JWT • WebSocket
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
-<td align="center" width="50%">
+    <td width="50%" align="center">
 
-<h3>🗄️ Database</h3>
+      <h3>🗄️ Database</h3>
 
-MongoDB • MySQL • PostgreSQL
-<br/>
-Mongoose • CRUD
-<br/>
-Database Design
+      MongoDB • MySQL • PostgreSQL
+      <br/>
+      Mongoose • CRUD
+      <br/>
+      Database Design
 
-</td>
+    </td>
 
-<td align="center" width="50%">
+    <td width="50%" align="center">
 
-<h3>☁️ Cloud & Development</h3>
+      <h3>☁️ Cloud & Development</h3>
 
-AWS
-<br/>
-Git • GitHub • Postman
-<br/>
-VS Code • Vite • XAMPP
-<br/>
-C++
+      AWS
+      <br/>
+      Git • GitHub • Postman
+      <br/>
+      VS Code • Vite • XAMPP
+      <br/>
+      C++
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 </table>
 
 <br/>
+
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
