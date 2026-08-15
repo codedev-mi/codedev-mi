@@ -1,31 +1,35 @@
 <!-- ================= HEADER ================= -->
 
+<!-- <p align="center">
+  Shruti Bhangale
+</p>
+
 <p align="center">
-  <img
+  FullStack developer | MERN + Python + AWS + NEXT + C++
+  <!-- <img
     src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Shruti%20Bhangale&fontSize=42&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Software%20Developer&descAlignY=64&animation=fadeIn&fontColor=ffffff&color=0:7C3AED,50:2563EB,100:06B6D4"
     width="100%"
-  />
-</p>
+  /> 
+</p> -->
 
 
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center"><b> Shruti Bhangale</b></h2>
 
-<p align="center">
+<!-- <p align="center">
   I'm an <strong>MCA graduate</strong> and <strong>Full Stack Developer</strong>
   from Nashik, Maharashtra 🇮🇳
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   I enjoy building modern, scalable and user-friendly web applications.
   <br>
   My primary focus is Full Stack Development using
   <strong>React, Node.js, Express and MongoDB.</strong>
-</p>
+</p> -->
 
 <p align="center">
-  🚀 Currently looking for opportunities as a
   <strong>Full Stack / MERN Stack Developer</strong>
 </p>
 
@@ -33,7 +37,7 @@
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img
@@ -42,7 +46,7 @@
   />
 </p>
 
-<br>
+<br> -->
 
 <!-- ================= WHAT I WORK WITH ================= -->
 
@@ -95,9 +99,9 @@ XAMPP • Figma • C++
   
 <!-- ================= FOOTER ================= -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:2563EB,100:7C3AED"
     width="100%"
   />
-</p>
+</p> -->
